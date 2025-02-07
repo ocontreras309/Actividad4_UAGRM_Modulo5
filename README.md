@@ -1,5 +1,4 @@
-# Actividad 4
-# Metaprogramación
+# Actividad 4: Metaprogramación
 # Módulo 5
 
 Se presentan dos ejemplos de metaprogramación con las siguientes características:
