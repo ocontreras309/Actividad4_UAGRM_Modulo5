@@ -1,0 +1,14 @@
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/bin/Debug/net9.0/ExampleNoReflection
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/bin/Debug/net9.0/ExampleNoReflection.deps.json
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/bin/Debug/net9.0/ExampleNoReflection.runtimeconfig.json
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/bin/Debug/net9.0/ExampleNoReflection.dll
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/bin/Debug/net9.0/ExampleNoReflection.pdb
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ExampleNoReflection.GeneratedMSBuildEditorConfig.editorconfig
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ExampleNoReflection.AssemblyInfoInputs.cache
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ExampleNoReflection.AssemblyInfo.cs
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ExampleNoReflection.csproj.CoreCompileInputs.cache
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ExampleNoReflection.dll
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/refint/ExampleNoReflection.dll
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ExampleNoReflection.pdb
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ExampleNoReflection.genruntimeconfig.cache
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleNoReflection/obj/Debug/net9.0/ref/ExampleNoReflection.dll

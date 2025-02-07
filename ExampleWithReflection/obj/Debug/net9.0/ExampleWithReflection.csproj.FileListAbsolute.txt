@@ -1,0 +1,14 @@
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/bin/Debug/net9.0/ExampleWithReflection
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/bin/Debug/net9.0/ExampleWithReflection.deps.json
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/bin/Debug/net9.0/ExampleWithReflection.runtimeconfig.json
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/bin/Debug/net9.0/ExampleWithReflection.dll
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/bin/Debug/net9.0/ExampleWithReflection.pdb
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ExampleWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ExampleWithReflection.AssemblyInfoInputs.cache
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ExampleWithReflection.AssemblyInfo.cs
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ExampleWithReflection.csproj.CoreCompileInputs.cache
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ExampleWithReflection.dll
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/refint/ExampleWithReflection.dll
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ExampleWithReflection.pdb
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ExampleWithReflection.genruntimeconfig.cache
+/home/ocontreras/Documents/UNIVERSITY_CLASSES/UAGRM/DOCTORADO_CIENCIAS_COMPUTACION/MODULO5/Actividad4/ExampleWithReflection/obj/Debug/net9.0/ref/ExampleWithReflection.dll
