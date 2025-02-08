@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 class Persona {
+    /* Atributos básicos de la clase */
     private String ci;
     private String nombre;
     private String apellido;
